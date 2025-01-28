@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import "./styles_globals/App.css";
-import "./index.css";
+//import "./styles_globals/App.css";
+//import "./index.css";
 import Menu from "./components/Menu";
 import Inicio from "./pages/Inicio";
 import Servicios from "./pages/Servicios";
